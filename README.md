@@ -1,4 +1,4 @@
-[🇵🇱 Zobacz wersję polską](README_pl.md)
+[🇵🇱 Zobacz wersję polską](README_PL.md)
 
 # Dariusz Matysiuk
 
