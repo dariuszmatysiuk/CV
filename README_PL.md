@@ -4,7 +4,7 @@
 
 ## Inżynier Elektronik Embedded | Białystok, Polska
 
-**Email:** [dariusz@matysiuk.pl](mailto:dariusz@matysiuk.pl) | **Telefon:** +48 504 056 008 | **Data urodzenia:** 29 lipca 1978  
+**Email:** [dariusz@matysiuk.pl](mailto:dariusz@matysiuk.pl) | **Telefon:** +48 690 800 494 | **Data urodzenia:** 29 lipca 1978  
 **Strona www:** [matysiuk.pl](https://matysiuk.pl/) | **LinkedIn:** [Dariusz Matysiuk](https://www.linkedin.com/in/dariusz-matysiuk/) | **GitHub:** [Dariusz Matysiuk](https://github.com/dariuszmatysiuk)
 
 ---
